@@ -1,0 +1,234 @@
+h1{
+    text-align: center;
+    font-family: 'playfair display';
+    margin-bottom: 10px;
+
+}
+h2{
+    text-align: center;
+    margin-bottom: 4px;
+     font-family: 'playfair display';
+     margin-top: 60px;
+}
+.content{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-family: 'playfair display';
+}
+h3{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+p{
+    margin-bottom: 16px;
+    line-height: 1.7;
+}
+body{
+}
+
+.tag{
+    text-align: center;
+    font-size: 18px;
+     font-weight: 500;
+     margin-top: 3px;
+     margin-bottom: 40px;
+}
+nav{
+    text-align: center;
+     font-family: 'playfair display';
+     margin-top: 10px;
+   
+}
+nav a {margin-right: 20px;
+    text-decoration: none;
+ margin-top: 10px;
+
+}
+.preview{
+    text-align: center;
+    margin-bottom: 48px;
+    
+}
+.previewlink{
+    border: 1PX solid #eee;
+    border-radius: 12px;
+    background-color: #fff;
+    transition: :transform 0.2s ease, box-shadow 0.2s ease;
+
+}
+.previewlink:hover{
+    transform: : translateY(-4px);
+    box-shadow: 0 8px 20px;
+    rgba(0,0,0,0.08);
+}
+.nav:hover{
+    
+
+}
+.articles-list{
+    max-width: 700px;
+    text-align: center;
+     margin: 0 auto;
+    padding: 0 20px;
+}
+.meta{
+    
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 12px;
+    margin-top: 3px;
+}
+.preview p{
+    line-height: 1.6;
+    margin-left: 12px;
+    font-weight: 400;
+    font-family: 'playfair display';
+    color: #555;
+  
+}
+.preview a {
+    font-weight: 500;
+    text-decoration: ;
+     font-family: 'playfair display';
+    
+}
+.preview h3{
+    font-weight: bold;
+    margin-bottom: 8px;
+     font-family: 'playfair display';
+
+    
+}
+header{
+    margin-bottom: 10px;
+}
+.intro{
+    font-family: 'playfair display';
+    line-height: 1.7;
+    font-size: large;
+}
+.latest article h2{
+    margin-top: 8px;
+}
+.intro{
+    margin-top: 5px;
+}
+.previewlink{
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+.preview:hover{
+    transform: translateY(-4px);
+    opacity:0.75;
+}
+.site-footer{
+    margin-top: 80px;
+    padding: 24px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}
+.heroimage{
+    max-width: 500px;
+    margin: 10px auto ;
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+.LOGO{
+    height: auto;
+max-width: 200px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+    
+}
+.site-header{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0px 16px;
+
+}
+.brand{
+     display: flex;
+    align-items: center;
+  gap:90px;
+
+}
+.SIGN{
+    height: auto;
+    max-width: 200px;
+    margin-top: 0px;
+    padding-top: 0px;
+    
+}
+.gg{
+    display: flex;
+    gap :140px;
+
+}
+.why{
+    max-width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: playfair display;
+    font-size: larger;
+    line-height: 1.7;
+}
+.home-cta a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: larger;
+   
+   
+   
+}
+.home-cta{
+    margin-top: 40px;
+    margin: 0px auto;
+    padding: 0px 20px;
+     max-width: 700px;
+      text-align: center;
+}
+body.dark{
+background-image: url(background.jpg);
+
+}
+
+ body.dark .site-header{
+    
+   background-color: rgba(255, 255, 255, 0.10);
+   background-blend-mode: lighten;
+
+ }
+#Toggle{
+font-family:playfair display;
+font-size: large;
+system-ui, sans-serif;
+background:#f5f0fa;
+color:#3a2a4a;
+border:1px solid #e6d9f2;
+
+ }
+.like{
+    text-align: center;
+    padding: 25px;
+    margin-top: 40px;
+    
+   
+}
+.Like{
+    font-size: large;
+    text-decoration: dashed;
+
+}
+ button.Liked{
+    background-color:blue;
+    color: #f5f0fa;
+}
+
+
+
+
